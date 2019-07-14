@@ -1,2 +1,5 @@
 # hello-world
-and another one
+
+Hey.
+
+Jordan here, I like Java and rap beats.
